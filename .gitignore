@@ -1,0 +1,23 @@
+# nodejs
+node_modules/
+.env
+
+# processing
+build/
+
+# data
+result/20241010/
+data/
+
+*.mp3
+*.mp4
+*.jpg
+*.png
+
+*.json
+
+*.java
+*.class
+
+*.wav
+
